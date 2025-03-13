@@ -34,8 +34,6 @@ function findOrder(numCourses: number, prerequisites: number[][]): number[] {
     }
   }
 
-  console.log(result)
-
   if (result.length !== numCourses) {
     return []
   }
