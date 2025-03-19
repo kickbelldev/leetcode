@@ -1,3 +1,1 @@
-# leetcode
-
-릿코드 풀이 레포지토리
+![LeetCode Stats](https://leetcard.jacoblin.cool/sn0wb3ll?theme=light&font=ABeeZee)
